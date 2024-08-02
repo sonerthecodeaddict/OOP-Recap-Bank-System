@@ -1,8 +1,9 @@
-Full OOP örnek banka sistemi. (Pratik amaçlı.)
+Full OOP basit banka sistemi. (Pratik amaçlı.)
 
 Özellikler:
 - Ticari kullanıcı
 - Bireysel kullanıcı
-- vadeli hesap
-- vadesiz hesap
-- vade oranı düzenleme
+- Vadeli hesap
+- Vadesiz hesap
+- Vade oranı ayarlama
+- kredi kartları ekleme / kaldırma / görüntüleme
